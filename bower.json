@@ -1,19 +1,23 @@
 {
-  "name": "bitcore-mnemonic",
-  "main": "./bitcore-mnemonic.min.js",
+  "name": "reddcore-mnemonic",
+  "main": "./reddcore-mnemonic.min.js",
   "version": "1.1.4",
-  "homepage": "https://github.com/bitpay/bitcore-mnemonic",
+  "homepage": "https://github.com/reddcoin-project/reddcore-mnemonic",
   "authors": [
-    "BitPay"
+    "BitPay",
+    "Reddcoin"
   ],
-  "description": "BIP39 - Mnemonics implemented for Bitcore.",
+  "description": "BIP39 - Mnemonics implemented for Reddcore.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
+    "reddcoin",
+    "reddcore",
     "bitcoin",
     "bitcore",
     "btc",
+    "rdd",
     "satoshi",
     "mnemonic"
   ],

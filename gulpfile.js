@@ -1,6 +1,6 @@
 'use strict';
 
-var gulp_bitcore = require('bitcore-build');
+var gulp_reddcore = require('reddcore-build');
 
-gulp_bitcore('mnemonic');
+gulp_reddcore('mnemonic');
 

@@ -35,4 +35,4 @@ See [CONTRIBUTING.md](https://github.com/reddcoin-project/reddcore-lib/blob/mast
 Code released under [the MIT license](https://github.com/reddcoin-project/reddcore-lib/blob/master/LICENSE).
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
-Copyright 2013-20158 Reddcoin Dev
+Copyright 2013-2018 Reddcoin Dev
